@@ -2,7 +2,7 @@ title: Digits
 description: An application aimed at organizing your contacts
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
